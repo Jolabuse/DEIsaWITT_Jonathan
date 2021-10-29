@@ -1,0 +1,16 @@
+C:\Users\jonat\tp3cs\DEIsaWITT_Jonathan\DEIsaWITT_Jonathan_Ex1\bin\Debug\net5.0\DEIsaWITT_Jonathan_Ex1.exe
+C:\Users\jonat\tp3cs\DEIsaWITT_Jonathan\DEIsaWITT_Jonathan_Ex1\bin\Debug\net5.0\DEIsaWITT_Jonathan_Ex1.deps.json
+C:\Users\jonat\tp3cs\DEIsaWITT_Jonathan\DEIsaWITT_Jonathan_Ex1\bin\Debug\net5.0\DEIsaWITT_Jonathan_Ex1.runtimeconfig.json
+C:\Users\jonat\tp3cs\DEIsaWITT_Jonathan\DEIsaWITT_Jonathan_Ex1\bin\Debug\net5.0\DEIsaWITT_Jonathan_Ex1.runtimeconfig.dev.json
+C:\Users\jonat\tp3cs\DEIsaWITT_Jonathan\DEIsaWITT_Jonathan_Ex1\bin\Debug\net5.0\DEIsaWITT_Jonathan_Ex1.dll
+C:\Users\jonat\tp3cs\DEIsaWITT_Jonathan\DEIsaWITT_Jonathan_Ex1\bin\Debug\net5.0\ref\DEIsaWITT_Jonathan_Ex1.dll
+C:\Users\jonat\tp3cs\DEIsaWITT_Jonathan\DEIsaWITT_Jonathan_Ex1\bin\Debug\net5.0\DEIsaWITT_Jonathan_Ex1.pdb
+C:\Users\jonat\tp3cs\DEIsaWITT_Jonathan\DEIsaWITT_Jonathan_Ex1\obj\Debug\net5.0\DEIsaWITT_Jonathan_Ex1.csproj.AssemblyReference.cache
+C:\Users\jonat\tp3cs\DEIsaWITT_Jonathan\DEIsaWITT_Jonathan_Ex1\obj\Debug\net5.0\DEIsaWITT_Jonathan_Ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\tp3cs\DEIsaWITT_Jonathan\DEIsaWITT_Jonathan_Ex1\obj\Debug\net5.0\DEIsaWITT_Jonathan_Ex1.AssemblyInfoInputs.cache
+C:\Users\jonat\tp3cs\DEIsaWITT_Jonathan\DEIsaWITT_Jonathan_Ex1\obj\Debug\net5.0\DEIsaWITT_Jonathan_Ex1.AssemblyInfo.cs
+C:\Users\jonat\tp3cs\DEIsaWITT_Jonathan\DEIsaWITT_Jonathan_Ex1\obj\Debug\net5.0\DEIsaWITT_Jonathan_Ex1.csproj.CoreCompileInputs.cache
+C:\Users\jonat\tp3cs\DEIsaWITT_Jonathan\DEIsaWITT_Jonathan_Ex1\obj\Debug\net5.0\DEIsaWITT_Jonathan_Ex1.dll
+C:\Users\jonat\tp3cs\DEIsaWITT_Jonathan\DEIsaWITT_Jonathan_Ex1\obj\Debug\net5.0\ref\DEIsaWITT_Jonathan_Ex1.dll
+C:\Users\jonat\tp3cs\DEIsaWITT_Jonathan\DEIsaWITT_Jonathan_Ex1\obj\Debug\net5.0\DEIsaWITT_Jonathan_Ex1.pdb
+C:\Users\jonat\tp3cs\DEIsaWITT_Jonathan\DEIsaWITT_Jonathan_Ex1\obj\Debug\net5.0\DEIsaWITT_Jonathan_Ex1.genruntimeconfig.cache
