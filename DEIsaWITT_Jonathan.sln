@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DEIsaWITT_Jonathan_Ex1", "D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DEIsaWITT_Jonathan_Ex2", "DEIsaWITT_Jonathan_Ex2\DEIsaWITT_Jonathan_Ex2.csproj", "{6D5E9349-4070-45F1-BA7F-49A841CE2444}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DEIsaWITT_Jonathan_Rock_Paper_Scissor", "DEIsaWITT_Jonathan_Rock_Paper_Scissor\DEIsaWITT_Jonathan_Rock_Paper_Scissor.csproj", "{286A7C83-97E9-4CF7-B7A2-8E5270BBF830}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{6D5E9349-4070-45F1-BA7F-49A841CE2444}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D5E9349-4070-45F1-BA7F-49A841CE2444}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D5E9349-4070-45F1-BA7F-49A841CE2444}.Release|Any CPU.Build.0 = Release|Any CPU
+		{286A7C83-97E9-4CF7-B7A2-8E5270BBF830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{286A7C83-97E9-4CF7-B7A2-8E5270BBF830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{286A7C83-97E9-4CF7-B7A2-8E5270BBF830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{286A7C83-97E9-4CF7-B7A2-8E5270BBF830}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DEIsaWITT_Jonathan_Rock_Paper_Scissor/1.0.0": {
+        "runtime": {
+          "DEIsaWITT_Jonathan_Rock_Paper_Scissor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DEIsaWITT_Jonathan_Rock_Paper_Scissor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

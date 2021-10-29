@@ -1,0 +1,16 @@
+C:\Users\jonat\tp3cs\DEIsaWITT_Jonathan\DEIsaWITT_Jonathan_Rock_Paper_Scissor\obj\Debug\net5.0\DEIsaWITT_Jonathan_Rock_Paper_Scissor.csproj.AssemblyReference.cache
+C:\Users\jonat\tp3cs\DEIsaWITT_Jonathan\DEIsaWITT_Jonathan_Rock_Paper_Scissor\obj\Debug\net5.0\DEIsaWITT_Jonathan_Rock_Paper_Scissor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\tp3cs\DEIsaWITT_Jonathan\DEIsaWITT_Jonathan_Rock_Paper_Scissor\obj\Debug\net5.0\DEIsaWITT_Jonathan_Rock_Paper_Scissor.AssemblyInfoInputs.cache
+C:\Users\jonat\tp3cs\DEIsaWITT_Jonathan\DEIsaWITT_Jonathan_Rock_Paper_Scissor\obj\Debug\net5.0\DEIsaWITT_Jonathan_Rock_Paper_Scissor.AssemblyInfo.cs
+C:\Users\jonat\tp3cs\DEIsaWITT_Jonathan\DEIsaWITT_Jonathan_Rock_Paper_Scissor\obj\Debug\net5.0\DEIsaWITT_Jonathan_Rock_Paper_Scissor.csproj.CoreCompileInputs.cache
+C:\Users\jonat\tp3cs\DEIsaWITT_Jonathan\DEIsaWITT_Jonathan_Rock_Paper_Scissor\bin\Debug\net5.0\DEIsaWITT_Jonathan_Rock_Paper_Scissor.exe
+C:\Users\jonat\tp3cs\DEIsaWITT_Jonathan\DEIsaWITT_Jonathan_Rock_Paper_Scissor\bin\Debug\net5.0\DEIsaWITT_Jonathan_Rock_Paper_Scissor.deps.json
+C:\Users\jonat\tp3cs\DEIsaWITT_Jonathan\DEIsaWITT_Jonathan_Rock_Paper_Scissor\bin\Debug\net5.0\DEIsaWITT_Jonathan_Rock_Paper_Scissor.runtimeconfig.json
+C:\Users\jonat\tp3cs\DEIsaWITT_Jonathan\DEIsaWITT_Jonathan_Rock_Paper_Scissor\bin\Debug\net5.0\DEIsaWITT_Jonathan_Rock_Paper_Scissor.runtimeconfig.dev.json
+C:\Users\jonat\tp3cs\DEIsaWITT_Jonathan\DEIsaWITT_Jonathan_Rock_Paper_Scissor\bin\Debug\net5.0\DEIsaWITT_Jonathan_Rock_Paper_Scissor.dll
+C:\Users\jonat\tp3cs\DEIsaWITT_Jonathan\DEIsaWITT_Jonathan_Rock_Paper_Scissor\bin\Debug\net5.0\ref\DEIsaWITT_Jonathan_Rock_Paper_Scissor.dll
+C:\Users\jonat\tp3cs\DEIsaWITT_Jonathan\DEIsaWITT_Jonathan_Rock_Paper_Scissor\bin\Debug\net5.0\DEIsaWITT_Jonathan_Rock_Paper_Scissor.pdb
+C:\Users\jonat\tp3cs\DEIsaWITT_Jonathan\DEIsaWITT_Jonathan_Rock_Paper_Scissor\obj\Debug\net5.0\DEIsaWITT_Jonathan_Rock_Paper_Scissor.dll
+C:\Users\jonat\tp3cs\DEIsaWITT_Jonathan\DEIsaWITT_Jonathan_Rock_Paper_Scissor\obj\Debug\net5.0\ref\DEIsaWITT_Jonathan_Rock_Paper_Scissor.dll
+C:\Users\jonat\tp3cs\DEIsaWITT_Jonathan\DEIsaWITT_Jonathan_Rock_Paper_Scissor\obj\Debug\net5.0\DEIsaWITT_Jonathan_Rock_Paper_Scissor.pdb
+C:\Users\jonat\tp3cs\DEIsaWITT_Jonathan\DEIsaWITT_Jonathan_Rock_Paper_Scissor\obj\Debug\net5.0\DEIsaWITT_Jonathan_Rock_Paper_Scissor.genruntimeconfig.cache
