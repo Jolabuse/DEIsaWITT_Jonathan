@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jonat\\tp3cs\\DEIsaWITT_Jonathan\\DEIsaWITT_Jonathan\\DEIsaWITT_Jonathan.csproj",
-      "projectName": "DEIsaWITT_Jonathan",
-      "projectPath": "C:\\Users\\jonat\\tp3cs\\DEIsaWITT_Jonathan\\DEIsaWITT_Jonathan\\DEIsaWITT_Jonathan.csproj",
+      "projectUniqueName": "C:\\Users\\jonat\\tp3cs\\DEIsaWITT_Jonathan\\DEIsaWITT_Jonathan_Ex1\\DEIsaWITT_Jonathan_Ex1.csproj",
+      "projectName": "DEIsaWITT_Jonathan_Ex1",
+      "projectPath": "C:\\Users\\jonat\\tp3cs\\DEIsaWITT_Jonathan\\DEIsaWITT_Jonathan_Ex1\\DEIsaWITT_Jonathan_Ex1.csproj",
       "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jonat\\tp3cs\\DEIsaWITT_Jonathan\\DEIsaWITT_Jonathan\\obj\\",
+      "outputPath": "C:\\Users\\jonat\\tp3cs\\DEIsaWITT_Jonathan\\DEIsaWITT_Jonathan_Ex1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config"
