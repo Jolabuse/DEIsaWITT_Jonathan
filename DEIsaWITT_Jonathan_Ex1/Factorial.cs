@@ -5,7 +5,7 @@ namespace DEIsaWITT_Jonathan
     class Factorial
     {
 
-        private int answer { get; set; } = 1;
+        private long answer { get; set; } = 1;
         
         public Factorial(int n)
         {
