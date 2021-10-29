@@ -37,6 +37,13 @@ namespace DEIsaWITT_Jonathan_Ex2
 
             return IsMoving;
         }
+        
+        public override void DisplayInfo()
+        {
+            Console.WriteLine("The motorcylce is Moving ?\n{0}",IsMoving);
+            Console.WriteLine("The motorcycle can fly ?\n{0}",CanFly);
+            Console.WriteLine("The motorcyle is {0} and have {1} wheels\n\n",Weight,WheelsCount);
+        }
     }
     
 }

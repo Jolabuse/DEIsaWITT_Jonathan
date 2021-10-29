@@ -37,5 +37,12 @@ namespace DEIsaWITT_Jonathan_Ex2
 
             return IsMoving;
         }
+        
+        public override void DisplayInfo()
+        {
+            Console.WriteLine("The plane is Moving ?\n{0}",IsMoving);
+            Console.WriteLine("The plane can fly ?\n{0}",CanFly);
+            Console.WriteLine("The plane is {0} and have {1} wheels\n\n",Weight,WheelsCount);
+        }
     }
 }

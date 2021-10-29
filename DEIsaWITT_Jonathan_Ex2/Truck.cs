@@ -36,5 +36,12 @@ namespace DEIsaWITT_Jonathan_Ex2
 
             return IsMoving;
         }
+        
+        public override void DisplayInfo()
+        {
+            Console.WriteLine("The truck is Moving ?\n{0}",IsMoving);
+            Console.WriteLine("The truck can fly ?\n{0}",CanFly);
+            Console.WriteLine("The truck is {0} and have {1} wheels\n\n",Weight,WheelsCount);
+        }
     }
 }

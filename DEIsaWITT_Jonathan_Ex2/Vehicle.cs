@@ -7,18 +7,21 @@ namespace DEIsaWITT_Jonathan_Ex2
     {
         bool IsMoving { get; set; }
         int WheelsCount { get; set; }
-        int Weight { get; set; }
+
+        public abstract void DisplayInfo();
     }
 
     public abstract class AVehicle : IVehicule
     {
         public bool IsMoving { get; set; }
         public int WheelsCount { get; set; }
-        public int Weight { get; set; }
+        public string Weight { get; set; }
         protected bool CanFly { get; set; }
     
         public abstract bool Drive();
         public abstract bool Stop();
+
+        public abstract void DisplayInfo();
     }
 
     public class Vehicles
@@ -38,6 +41,11 @@ namespace DEIsaWITT_Jonathan_Ex2
             foreach (var vehicle in vehicles)
             {
                 vehicle.Drive();
+            }
+            
+            foreach (var vehicle in vehicles)
+            {
+                vehicle.DisplayInfo();
             }
 
             foreach (var vehicle in vehicles)
